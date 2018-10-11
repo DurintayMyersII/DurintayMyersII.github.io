@@ -1,4 +1,4 @@
-(function (window) {
+ (function (window) {
     'use strict';
     window.opspark = window.opspark || {};
     window.opspark.platform = window.opspark.platform || {};
